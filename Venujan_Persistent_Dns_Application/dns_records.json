@@ -1,0 +1,18 @@
+{
+    "mail.example.com": {
+        "type": "A",
+        "value": "222.168.117.8"
+    },
+    "alias.example.com": {
+        "type": "CNAME",
+        "value": "www.example.com"
+    },
+    "www.cicra.lk": {
+        "type": "A",
+        "value": "203.200.170.34"
+    },
+    "www.google.com": {
+        "type": "A",
+        "value": "124.124.124.124"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "www.google.com": {
+        "type": "A",
+        "value": "172.255.31.1"
+    },
+    "mail.example.com": {
+        "type": "A",
+        "value": "222.168.117.8"
+    },
+    "alias.example.com": {
+        "type": "CNAME",
+        "value": "www.example.com"
+    },
+    "www.youtube.com": {
+        "type": "A",
+        "value": "123.123.123.123"
+    }
+}
